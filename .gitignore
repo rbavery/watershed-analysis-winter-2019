@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 
 lab2-precip/.ipynb_checkpoints/*
+
+*.png
+
+lab2-precip/*.png
