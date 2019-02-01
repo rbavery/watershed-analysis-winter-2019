@@ -5,3 +5,9 @@ lab2-precip/.ipynb_checkpoints/*
 *.png
 
 lab2-precip/*.png
+
+*/*.tex
+
+*lock*
+
+*/*lock*
